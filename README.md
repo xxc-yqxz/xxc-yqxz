@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @xxc-yqxz
-- 👀 I’m interested in Vue、React、threejs、wpf
-- 🌱 I’m currently learning c#，wpf
+- 👀 I’m interested in Vue、React、threejs、go
+- 🌱 I’m currently learning go and Electron
